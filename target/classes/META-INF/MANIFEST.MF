@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: git-test-app
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Owner
+Implementation-Vendor-Id: com.example
+Build-Jdk: 1.8.0_172
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/git-test-app
+Created-By: Maven Integration for Eclipse
+
